@@ -1,9 +1,8 @@
 ### Welcome!!
 
 
-Hello! I am Cody a new budding software engineer. 
-I love to work on interesting projects and learn new things.
-I also love to hike and mountaion bike in my spare time. 
-Welcome to my page! 
+Welcome to my new github page for fun & useful projects.
+Let's get started :) 
+
 
 
